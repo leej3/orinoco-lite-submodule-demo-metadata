@@ -1,8 +1,8 @@
 attributes:
 - predicate: schema:name
   schema_type: dlthings:AttributeSpecification
-  value: 'Adapter fixture: accept'
-display_label: 'Adapter fixture: accept'
+  value: 'Adapter fixture: accept (corrected)'
+display_label: 'Adapter fixture: accept (corrected)'
 pid: xyzrins:projects/adapter-fixture-accept
 schema_type: xyzri:XYZProject
-title: 'Adapter fixture: accept'
+title: 'Adapter fixture: accept (corrected)'
