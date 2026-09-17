@@ -1,0 +1,26 @@
+adapter: dump-research-info
+decisions:
+  xyzrins:projects/adapter-fixture-accept:
+    claim_sha256: sha256:aa2197021ded124f76d38069c3c33743143c288e16e3c3a900c5e536515eff2f
+    disposition: accept
+    review: github-comment:5718996727
+    source_record_id: accept
+  xyzrins:projects/adapter-fixture-defer:
+    claim_sha256: sha256:c67b62d5d5f39d3aa9fb1ecaf0601e0bed714c5c5ecc1bdc1bb0fdf8005ab8da
+    disposition: defer
+    review: github-comment:5718996727
+    source_record_id: defer
+  xyzrins:projects/adapter-fixture-reject:
+    claim_sha256: sha256:e4bf231d0e5d4cf9332cc10d37dc52917cbda408f97870df363626e75e4a51d7
+    disposition: reject
+    review: github-comment:5718996727
+    source_record_id: reject
+format: orinoco-lite-curation-decisions-v1
+reviews:
+  github-comment:5718996727:
+    review_url: https://github.com/leej3/orinoco-lite-submodule-demo/pull/15#issuecomment-5718996727
+    reviewed_at: '2026-09-17T18:03:06Z'
+    reviewer: https://github.com/leej3
+    source_coordinate:
+      fixture: issue-163
+      sha256: d5d3b24d890f306f43f152a7cf77b0524bf5b8cf89893a4b3e67a828e1864afa

@@ -1,8 +1,0 @@
-attributes:
-- predicate: schema:name
-  schema_type: dlthings:AttributeSpecification
-  value: 'Adapter fixture: reject'
-display_label: 'Adapter fixture: reject'
-pid: xyzrins:projects/adapter-fixture-reject
-schema_type: xyzri:XYZProject
-title: 'Adapter fixture: reject'

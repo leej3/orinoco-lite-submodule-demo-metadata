@@ -1,8 +1,0 @@
-attributes:
-- predicate: schema:name
-  schema_type: dlthings:AttributeSpecification
-  value: 'Adapter fixture: defer'
-display_label: 'Adapter fixture: defer'
-pid: xyzrins:projects/adapter-fixture-defer
-schema_type: xyzri:XYZProject
-title: 'Adapter fixture: defer'

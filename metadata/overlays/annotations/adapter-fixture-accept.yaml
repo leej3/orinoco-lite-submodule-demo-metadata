@@ -1,6 +1,0 @@
-assertions:
-- assertion_sha256: sha256:c38d832ee35ddbdca2c581f61896f8df40ff0a05141bb293d4788ecc1e9f5886
-  path: /attributes
-  pav:importedBy: xyzrins:source-adapters/issue-163-fixture/v1
-  pav:importedFrom: https://example.org/orinoco/issue-163-fixture/accept
-record: xyzrins:projects/adapter-fixture-accept
