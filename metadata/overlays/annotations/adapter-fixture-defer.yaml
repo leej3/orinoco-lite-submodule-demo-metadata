@@ -1,0 +1,6 @@
+assertions:
+- assertion_sha256: sha256:39a4c0f143f284ec0ce80fb74220a280e05391bce1e6897636fd0309ee2380b4
+  path: /attributes
+  pav:importedBy: xyzrins:source-adapters/issue-163-fixture/v1
+  pav:importedFrom: https://example.org/orinoco/issue-163-fixture/defer
+record: xyzrins:projects/adapter-fixture-defer
