@@ -1,0 +1,5 @@
+pid: xyzrins:source-adapters/issue-163-fixture/v1
+schema_type: xyzri:XYZInstrument
+name: Issue 163 disposable adapter fixture
+kind: obo:IAO_0000010
+description: Deterministic test adapter for the authorized accept, reject, and defer exercise.

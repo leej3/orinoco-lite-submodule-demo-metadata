@@ -1,0 +1,5 @@
+[
+  {"name": "accept", "title": "Adapter fixture: accept"},
+  {"name": "reject", "title": "Adapter fixture: reject"},
+  {"name": "defer", "title": "Adapter fixture: defer"}
+]
