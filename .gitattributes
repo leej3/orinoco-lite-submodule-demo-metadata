@@ -1,0 +1,4 @@
+* annex.largefiles=((mimeencoding=binary)and(largerthan=0))
+metadata/** annex.largefiles=nothing
+*.yaml annex.largefiles=nothing
+*.yml annex.largefiles=nothing
