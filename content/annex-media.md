@@ -1,7 +1,7 @@
 ---
-title: Annex media test
+title: R2 Annex media test
 ---
 
-This synthetic blue square exercises public Annex media retrieval.
+This synthetic fixture is stored only in Cloudflare R2.
 
-![Synthetic blue square](/annex-fixture.png)
+![R2 media fixture](/r2-fixture.svg)
