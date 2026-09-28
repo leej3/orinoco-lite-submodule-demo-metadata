@@ -1,7 +1,7 @@
 ---
-title: R2 Annex media test
+title: DataLad Hub Annex media test
 ---
 
-This synthetic fixture is stored only in Cloudflare R2.
+This synthetic fixture is stored only on the public DataLad hub.
 
-![R2 media fixture](/r2-fixture.svg)
+![DataLad Hub media fixture](/aneksajo-fixture.svg)
